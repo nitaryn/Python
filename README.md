@@ -1,2 +1,1 @@
-# Python
-practices on python
+
